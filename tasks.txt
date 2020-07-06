@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Nhlanhla, Testing Code, Testing code must be done, 20 Dec 2020, 08 May 2020, Yes
+Bob, Testing 2, testing due date, 25 May 2020, 28 May 2020, No
+Nhlanhla, Past Test, testing is testing, 27 May 2020, 25 Oct 2020, Yes
